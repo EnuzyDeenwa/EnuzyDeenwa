@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Designs
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Web Designs
-- 📫 How to reach me at deenwaenuzy@gmail.com
+- 📫 How to reach me at edeenwa@gmail.com
 
 <!---
 EnuzyDeenwa/EnuzyDeenwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
